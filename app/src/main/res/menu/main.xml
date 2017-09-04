@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_build"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Build"/>
+    
+    <item
+        android:id="@+id/action_run"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Run"/>
+    
+    <item
+        android:id="@+id/action_build_and_run"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Build and Run"/>
+
+</menu>
