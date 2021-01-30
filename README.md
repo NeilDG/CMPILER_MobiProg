@@ -1,7 +1,7 @@
 # CMPILER_MobiProg
 MobiProg is a  mobile IDE using Java as programming language.
 
-#Main point of entry: 
+# Main point of entry: 
 CMPILER_MobiProg/app/src/main/java/com/neildg/mobiprog/execution/ExecutionManager.java - for the runtime environment
 CMPILER_MobiProg/app/src/main/java/com/neildg/mobiprog/builder/ParserHandler.java - for the parsing stage
 
